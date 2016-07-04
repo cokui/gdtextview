@@ -8,8 +8,7 @@ import android.text.TextUtils;
 import android.util.AttributeSet;
 import android.widget.Button;
 
-/**
- */
+
 public class GDButton extends Button {
     private String mTypeFace = GDTypeFace.TIMES_NEW_ROMAN_REGULAR.getName();
     private Context mContext;
